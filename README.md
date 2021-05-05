@@ -1,1 +1,1 @@
-Technologist, entrepreneur, nomad. Building algorithms with a heart [HeartrRthm](https://github.com/heartrithm), original author of [jrnl](https://github.com/jrnl-org-jrnl) and [The Most Dangerous Writing App](https://github.com/maebert/themostdangerouswritingapp).
+Technologist, entrepreneur, nomad. Building algorithms with a heart [HeartrRthm](https://github.com/heartrithm), original author of [jrnl](https://github.com/jrnl-org/jrnl) and [The Most Dangerous Writing App](https://github.com/maebert/themostdangerouswritingapp).
