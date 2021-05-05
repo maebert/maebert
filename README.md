@@ -1,1 +1,1 @@
-![Hire me](https://user-images.githubusercontent.com/1047165/97986797-85374500-1dda-11eb-8aa8-212f7cd88507.png)
+Technologist, entrepreneur, nomad. Building algorithms with a heart [heartrithm ](https://github.com/heartrithm), original author of [jrnl](https://github.com/jrnl-org-jrnl) and [The Most Dangerous Writing App](https://github.com/maebert/themostdangerouswritingapp).
